@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Latest Blog */}
           <div>
             <h3 className="text-lg font-semibold mb-4 border-b border-gray-700 pb-2">
-              LATEST BLOG
+              FIRST BLOG
             </h3>
           </div>
 
