@@ -21,7 +21,7 @@ const Footer = () => {
             <div className="mb-6">
               <h4 className="font-medium mb-2">How do I buy bitcoins in Mexico?</h4>
               <p className="text-gray-400 text-sm mb-4">
-                Buying bitcoins through Bitso is very simple. Firstly, make an account with us. It's free, quick and easy...
+                Buying bitcoins through Dota is very simple. Firstly, make an account with us. It's free, quick and easy...
               </p>
               <button className="btn-outline text-sm">
                 READ MORE
@@ -35,7 +35,7 @@ const Footer = () => {
               WE ARE HIRING
             </h3>
             <div className="mb-6">
-              <h4 className="font-medium mb-2">Come join Bitso!</h4>
+              <h4 className="font-medium mb-2">Come join Dota!</h4>
               <p className="text-gray-400 text-sm mb-4">
                 We are looking for talented people to join our team.
               </p>
@@ -105,7 +105,7 @@ const Footer = () => {
 
         {/* Copyright */}
         <div className="border-t border-gray-700 pt-8 text-center text-gray-400 text-sm">
-          <p>2023 © Bitso. All rights reserved.</p>
+          <p>2023 © Dota. All rights reserved.</p>
         </div>
       </div>
     </footer>
